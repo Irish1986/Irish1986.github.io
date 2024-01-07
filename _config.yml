@@ -128,9 +128,11 @@ exclude:
   - "*.gem"
   - "*.gemspec"
   - /.taskfile
+  - Dockerfile
   - docs
   - LICENSE
   - package*.json
+  - README.Docker.md
   - README.md
   - rollup.config.js
   - Taskfile.yml

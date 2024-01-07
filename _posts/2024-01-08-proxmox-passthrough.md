@@ -2,7 +2,7 @@
 layout: post
 title: "Proxmox VE 8.1 Device Passthrough"
 author: irish1986
-date: 2024-01-08 00:00:00 +0000
+date: 2024-01-06 00:00:00 +0000
 categories:
   - proxmox
   - tutorial

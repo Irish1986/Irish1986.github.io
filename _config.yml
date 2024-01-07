@@ -124,14 +124,17 @@ compress_html:
     envs: [development]
 
 exclude:
+  - .pre-commit-config.yaml
   - "*.gem"
   - "*.gemspec"
+  - /.taskfile
   - docs
-  - tools
-  - README.md
   - LICENSE
-  - rollup.config.js
   - package*.json
+  - README.md
+  - rollup.config.js
+  - Taskfile.yml
+  - tools
 
 jekyll-archives:
   enabled: [categories, tags]

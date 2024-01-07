@@ -10,6 +10,12 @@ includes:
 
 tasks:
 
+  draft:
+    desc: Start bundle server
+    cmds:
+      - bundle exec jekyll post "My New Post" --timestamp-format "%Y-%m-%d %H:%M:%S %z"
+    silent: true
+
   start:
     desc: Start bundle server
     cmds:

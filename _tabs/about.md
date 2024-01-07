@@ -4,11 +4,11 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# I'm Simon HARVEY (Irish1986)
+# I'm Simon HARVEY (irish1986)
 
 ## Currently | Solution Architect
 
-Solution Architect specializing in designing, building, and automating robust platforms in the Aerospace & Defense.
+Solution Architect specializing in designing, building, and automating robust platforms in the Aerospace & Defense sector.
 
 ## Tech Stack
 

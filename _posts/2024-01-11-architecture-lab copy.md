@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Homelab Architecture"
+title: "Architecture - My Homelab"
 author: irish1986
 date: 2024-01-06 00:00:00 +0000
 categories:
